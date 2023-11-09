@@ -1,0 +1,22 @@
+PART- A  
+
+1. State the principle of strong induction.
+2 Use mathematical induction to show that 1 + 2 + 3 + ⋯ + ? =
+?(?+1)2
+3 Use mathematical induction to show that ?! ≥ 2
+?+1, ? = 1,2,3, …
+4 What is well ordering principle?
+5 How many permutations are there in the word MISSISSIPPI?
+6 State the Pigeonhole principle.
+7 What is the number of arrangements of all the six letters in the word
+PEPPER?
+8 How many permutations of {a,b,c,d,e,f,g} starting with a?
+9 In how many ways can all the letters in MATHEMATICAL be arranged?
+10 Find the minimum of students needs to guarantee that 5 of them belongs to
+the same subject if there are 5 different major subjects
+11 How many different bit strings are there of length seven?
+12 Twelve students want to place order of different ice creams in a ice cream parlor, which has six type of ice creams. Find the number of orders that the twelve students can place.
+13 How many permutations are there in the word MALAYALAM?
+14 Find the recurrence relation for the Fibonacci sequence.
+15 Find the recurrence relation satisfying the equation
+?? = ?(3)? + ?(−4)?
